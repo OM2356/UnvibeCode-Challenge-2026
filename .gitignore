@@ -1,0 +1,15 @@
+﻿repository/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+
+# UnvibeCode internal generated files
+unvibecode_results/**/repository-repository-context.zip
+unvibecode_results/**/.unvibecode-output
+unvibecode_results/**/report-support/fast_lane_context_store.js
+unvibecode_results/**/technical-logs/
